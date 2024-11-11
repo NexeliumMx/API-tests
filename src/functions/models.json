@@ -1,0 +1,14 @@
+[
+  {
+    "SERIAL": 1,
+    "manufacturer": "Accuenergy",
+    "series": "AcuRev 1300",
+    "model": "acurev-1313-5a-x0"
+  },
+  {
+    "SERIAL": 2,
+    "manufacturer": "Carlo Gavazzi",
+    "series": "EM210",
+    "model": "EM210-72D.MV5.3.X.OS.X"
+  }
+]
